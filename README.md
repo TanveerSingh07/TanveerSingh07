@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm a third-year B.Tech IT student passionate about web and app development.  <br>💡 I love turning ideas into real, interactive experiences using modern web technologies.  <br>🛠️ Currently exploring: React, JavaScript, Tailwind CSS, Python, and C++.  <br>🌱 Always learning something new — whether it's a framework, a design pattern, or a debugging trick.  <br>🚀 I build projects like:<br>PeerConnect – A React-based student collaboration platform  <br>Expense Tracker – A C++ CLI app to manage personal finances  <br>WebNova – A front-end tech demo using HTML, CSS, JS, and jQuery  <br><br>📌 Currently looking to connect, collaborate, and grow as a developer.
+🎓 I'm a Final-year B.Tech IT student passionate about web development and AI.  <br>💡 I love turning ideas into real, interactive experiences using modern web technologies.  <br>🛠️ Currently exploring: React, JavaScript, Tailwind CSS, Python, and C++.  <br>🌱 Always learning something new — whether it's a framework, a design pattern, or a debugging trick.  <br>🚀 I build projects like:<br>PeerConnect – A React-based student collaboration platform  <br>Expense Tracker – A C++ CLI app to manage personal finances  <br>WebNova – A front-end tech demo using HTML, CSS, JS, and jQuery  <br><br>📌 Currently looking to connect, collaborate, and grow as a developer.
 
 
 ## 🌐 Socials:
